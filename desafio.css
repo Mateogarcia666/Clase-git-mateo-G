@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    
+    padding-left:50px;
+    padding-right: 50px;
+}
+.centrar {
+ padding-right: 500px;
+    padding-left:500px;
+}
+.boton{
+    border:5px solid white;
+background-color: black;   
+color: white;
+border-radius: 20px;
+}
